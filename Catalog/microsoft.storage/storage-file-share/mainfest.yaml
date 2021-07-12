@@ -1,0 +1,6 @@
+name: storage-files-share
+version: 1.0.0
+description: Deploys storage file share
+engine:
+  type: ARM
+  templatePath: azuredeploy.json
